@@ -1,0 +1,13 @@
+logzero
+pandas
+flask
+smartapi-python
+requests
+flask-cors
+supabase
+pyotp
+python-dotenv
+gunicorn
+websockets
+websocket
+yfinance
